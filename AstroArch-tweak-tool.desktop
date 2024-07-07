@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Application;Maps;Utility;
+Comment=Tweak your AstroArch
+Comment=Tweak your AstroArch
+Encoding=UTF-8
+Exec=/bin/zsh -c 'source /home/astronaut/astroarch-tweak-tool/env/bin/activate && /home/astronaut/astroarch-tweak-tool/env/bin/python /home/astronaut/astroarch-tweak-tool/astroarch_tweak_tool.py'
+GenericName=AstroArch_Tweak
+GenericName=AstroArch_Tweak
+Icon=/home/astronaut/astroarch-tweak-tool/astroarch-w-32x32.png
+MimeType=
+Name=AstroArch_Tweak
+Name=AstroArch_Tweak
+Path=/home/astronaut/astroarch-tweak-tool
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
